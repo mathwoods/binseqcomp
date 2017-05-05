@@ -7,7 +7,7 @@ Use Python 2.7.10 to run the script. Other versions may work, but I only tested 
 
 <b>python binseqcomp.py</b>
 
-To learn more about why I wrote this script and and some very basic info about sequential/binary search, check out 
+To learn more about why I wrote this script and and some very basic info about sequential/binary search, check out https://mathwoods.com/2017/05/03/sequential-search-vs-binary-search/.
 
 Enjoy! 
 
